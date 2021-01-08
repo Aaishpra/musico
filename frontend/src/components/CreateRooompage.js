@@ -52,7 +52,7 @@ export default class CreateRoompage extends Component{
              <Grid container spacing={1}>
              <Grid item xs={12} align="center">
                  <Typography component='h3' variant="h3">
-                     CREATE A ROOM
+                     Create a Room
                  </Typography>
              </Grid>
              <Grid item xs={12} align="center">
