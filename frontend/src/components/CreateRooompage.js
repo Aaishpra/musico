@@ -42,7 +42,7 @@ export default class CreateRoompage extends Component{
             guest_can_pause: this.state.guest_can_pause,
           }),
         };
-        fetch("/api/room", requestOptions)
+        fetch("/api/create-room", requestOptions)
           .then((response) => response.json())
           .then((data) => console.log(data));
       }
