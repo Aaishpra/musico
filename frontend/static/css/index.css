@@ -5,7 +5,18 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-image: url("https://wallpapercave.com/wp/wp5627160.jpg");
+  /* background-image: url("https://thumbs.dreamstime.com/z/vector-illustration-anthropomorphic-panda-who-listens-to-music-device-cute-cartoon-anime-style-105310015.jpg"); */
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 
 #main {
   position: fixed;
