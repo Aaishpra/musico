@@ -17,6 +17,7 @@ export default class Homepage extends Component {
         this.state = {
             roomCode: null,
         };
+        this.clearRoomCode = this.clearRoomCode.bind(this);
     }
 
     async componentDidMount() {
@@ -47,6 +48,13 @@ export default class Homepage extends Component {
             </Grid>
         );
     }
+
+    clearRoomCode() {
+        this.setState({
+          roomCode: null,
+        });
+      }
+
     render() {
         return <Router>
             <Switch>
@@ -57,10 +65,15 @@ export default class Homepage extends Component {
                     ) : (
                       this.renderHomepage()
                     );
-                  }}></Route>
+                  }}
+                  />
                 <Route path='/join' component={RoomJoinpage} />
                 <Route path='/create' component={CreateRoompage} />
-                <Route path='/room/:roomCode' component={Room} />
+                <Route path='/room/:roomCode' 
+                render={(props) => {
+                    return <Room {...props} leaveRoomCallback={this.clearRoomCode} />;
+                  }}
+                  />
             </Switch>
         </Router>;
     }
