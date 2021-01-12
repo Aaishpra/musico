@@ -32,7 +32,7 @@ export default class Homepage extends Component {
             <Grid container spacing={3}>
                 <Grid item xs={12} align="center">
                     <Typography variant="h3" compact="h3">
-                        House Party with MusicO
+                        House Party with Musico
           </Typography>
                 </Grid>
                 <Grid item xs={12} align="center">
