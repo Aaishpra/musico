@@ -106,7 +106,7 @@ export default class Room extends Component {
     return (
       <Grid container spacing={1}>
         <Grid item xs={12} align="center">
-          <CreateRoomPage
+          <CreateRoompage
             update={true}
             votesToSkip={this.state.votesToSkip}
             guestCanPause={this.state.guestCanPause}
