@@ -16,7 +16,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.player{
+  background-image: url("https://www.google.com/search?q=images+cute+music&client=ubuntu&hs=kf1&channel=fs&tbm=isch&source=iu&ictx=1&fir=Dd8wI12i-OaZuM%252CkC7mr2dcgYeRWM%252C_&vet=1&usg=AI4_-kTKvrgAjYyvZKbAz-Ro4irfFnU9mg&sa=X&ved=2ahUKEwi58I-12pjuAhX7yDgGHc4HBxUQ9QF6BAgNEAE#imgrc=Dd8wI12i-OaZuM");
+}
 
 #main {
   position: fixed;
