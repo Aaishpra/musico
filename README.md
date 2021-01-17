@@ -42,4 +42,8 @@ To start using the application on your local device do following.
      
      inside the frontend directory
      
+ - And,
  
+   ```npm run dev```
+   
+   to complie the frontend code.
