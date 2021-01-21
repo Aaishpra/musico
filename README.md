@@ -36,7 +36,7 @@ To start using the application on your local device do following.
   
      To start the server
      
-   - To start the frontend do
+   - To start the frontend run
      
      ``` npm install``` 
      
