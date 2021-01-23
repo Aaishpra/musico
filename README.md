@@ -42,7 +42,7 @@ To start using the application on your local device do following.
      
      inside the frontend directory
      
- - And,
+ - And,run
  
    ```npm run dev```
    
