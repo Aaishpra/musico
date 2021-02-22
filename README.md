@@ -1,6 +1,6 @@
 # musico
 
-Now create and join House party music with your friends with musico
+Now create and join House party music with your friends with musico.
 Musico uses Spotify api for playing/pausing the song,so you might need to own a spotify application to use the app.
 
 ![image](https://user-images.githubusercontent.com/66299533/104279743-cfbaf900-54d0-11eb-9e0b-c41e5590b645.png)
