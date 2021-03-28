@@ -53,6 +53,17 @@ To start using the application on your local device do following.
 Thanks goes to these people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/shipra"><img src="https://avatars.githubusercontent.com/u/1128951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shipra</b></sub></a><br /><a href="https://github.com/Aaishpra/musico/commits?author=shipra" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
