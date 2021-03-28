@@ -57,7 +57,7 @@ Thanks goes to these people ([emoji key](https://github.com/all-contributors/all
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/shipra"><img src="https://avatars.githubusercontent.com/u/1128951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shipra</b></sub></a><br /><a href="https://github.com/Aaishpra/musico/commits?author=shipra" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Aaishpra"><img src="https://avatars.githubusercontent.com/u/1128951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shipra</b></sub></a><br /><a href="https://github.com/Aaishpra/musico/commits?author=shipra" title="Code">💻</a></td>
   </tr>
 </table>
 
