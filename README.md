@@ -13,7 +13,7 @@ Musico uses Spotify api for playing/pausing the song,so you might need to own a 
 3. python
 
 ### For Frontend
-4. react
+4. react js
 5. material-ui
 6. webpack
 7. Babel
